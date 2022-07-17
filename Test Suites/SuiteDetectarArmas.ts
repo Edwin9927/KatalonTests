@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>6ec9e263-3676-44a8-b269-5a5298fec0dc</testSuiteGuid>
    <testCaseLink>
-      <guid>883de450-65bd-4ae9-b16b-dde62b833244</guid>
+      <guid>a900ea9b-7399-4425-9ecd-6ef1a23f94fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DetectArmas</testCaseId>
+      <testCaseId>Test Cases/DetectarArmaTestCase</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
