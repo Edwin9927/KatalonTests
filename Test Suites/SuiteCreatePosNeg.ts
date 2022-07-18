@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>SuiteDecodificarVideo</name>
+   <name>SuiteCreatePosNeg</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>19895c99-5783-4f5c-8473-3cb2cc18c300</testSuiteGuid>
+   <testSuiteGuid>09182e93-8d86-4fd7-9548-3f3edb4c6444</testSuiteGuid>
    <testCaseLink>
-      <guid>fee0e94f-af72-43a1-8dc3-064a0fbb745b</guid>
+      <guid>639cf3d6-9602-4014-a3b9-ad614770dc4c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DecodificarVideoTestCase</testCaseId>
+      <testCaseId>Test Cases/CreatePosNNegTestCase</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

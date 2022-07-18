@@ -35,6 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/SuiteCreatePosNeg</testSuiteEntity>
          <testSuiteEntity>Test Suites/SuiteTestStorePositive</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
