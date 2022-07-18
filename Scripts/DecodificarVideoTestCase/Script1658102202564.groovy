@@ -17,19 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Windows.startApplicationWithTitle('C:\\Users\\ayrto\\Downloads\\Create POS N PO\\dist\\main.exe', 'Create POS N POS')
-
-Windows.setText(findWindowsObject('Object Repository/DecodificarVideo/Pane'), 'D:\\Development\\positivesimagesss')
+Windows.startApplicationWithTitle('C:\\Universidad\\Dev\\PyProjects\\DecodificarVideo\\main.exe', '')
 
 Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button'))
 
-Windows.getText(findWindowsObject('Object Repository/DecodificarVideo/Pane(1)'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/TreeItem'))
 
-Windows.clearText(findWindowsObject('Object Repository/DecodificarVideo/Pane'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/ListItem'))
 
-Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button(1)'))
 
-Windows.getText(findWindowsObject('Object Repository/DecodificarVideo/Pane(1)'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button(2)'))
 
 Windows.closeApplication()
 

@@ -19,25 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 Windows.startApplicationWithTitle('C:\\Users\\ayrto\\Downloads\\iniciar.exe', 'DetectarArma')
 
-Windows.setText(findWindowsObject('Object Repository/Pane'), 'socektio.Client()')
+Windows.setText(findWindowsObject('Object Repository/DecodificarVideo/Pane'), 'socektio.Client()')
 
-Windows.getText(findWindowsObject('Object Repository/Pane'))
+Windows.getText(findWindowsObject('Object Repository/DecodificarVideo/Pane'))
 
-Windows.click(findWindowsObject('Object Repository/Button'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button'))
 
-Windows.click(findWindowsObject('Object Repository/Button(1)'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button(1)'))
 
-Windows.click(findWindowsObject('Object Repository/Button(2)'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button(2)'))
 
-Windows.getText(findWindowsObject('Object Repository/Pane(1)'))
+Windows.getText(findWindowsObject('Object Repository/DecodificarVideo/Pane(1)'))
 
-Windows.clearText(findWindowsObject('Object Repository/Pane(1)'))
+Windows.clearText(findWindowsObject('Object Repository/DecodificarVideo/Pane(1)'))
 
-Windows.clearText(findWindowsObject('Object Repository/Pane'))
+Windows.clearText(findWindowsObject('Object Repository/DecodificarVideo/Pane'))
 
-Windows.click(findWindowsObject('Object Repository/Button(2)'))
+Windows.click(findWindowsObject('Object Repository/DecodificarVideo/Button(2)'))
 
-Windows.getText(findWindowsObject('Object Repository/Pane(1)'))
+Windows.getText(findWindowsObject('Object Repository/DecodificarVideo/Pane(1)'))
 
 Windows.closeApplication()
 

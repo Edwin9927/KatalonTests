@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Caso de Prueba para la funcionalidad de decodificar video</description>
+   <name>DecodificarVideoTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2ba7061-4530-446d-ad44-3273de014793</testCaseGuid>
+</TestCaseEntity>
